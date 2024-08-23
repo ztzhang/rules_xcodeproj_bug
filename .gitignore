@@ -1,0 +1,5 @@
+*.mobileprovision
+bazel-*
+*.xcodeproj
+.DS_Store
+.vscode
